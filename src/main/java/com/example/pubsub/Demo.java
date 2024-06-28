@@ -1,9 +1,8 @@
-package com.example;
+package com.example.pubsub;
 
 
-import com.example.publisher.PublisherImpl;
-import com.example.publisher.SubscriptionImpl;
-import com.example.subscriber.SubscriberImpl;
+import com.example.pubsub.publisher.PublisherImpl;
+import com.example.pubsub.subscriber.SubscriberImpl;
 
 import java.time.Duration;
 

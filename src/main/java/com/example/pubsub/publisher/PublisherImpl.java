@@ -1,4 +1,4 @@
-package com.example.publisher;
+package com.example.pubsub.publisher;
 
 import org.reactivestreams.Publisher;
 import org.reactivestreams.Subscriber;
